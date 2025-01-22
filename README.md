@@ -1,4 +1,8 @@
-# Dijikstra Project 
+# Dijkstra's Algorithm Project
+
+This project is a Streamlit application demonstrating Dijkstra's algorithm for finding the shortest path in a graph.
+
+You can access the live application here: [Dijkstra's Algorithm App](https://mpdsir.streamlit.app/)
 
 ## To Install
 pip install networkx matplotlib streamlit
